@@ -1,0 +1,1 @@
+create table 4each_keijiban(handname varchar(255),title varchar(255),comments varchar(255));

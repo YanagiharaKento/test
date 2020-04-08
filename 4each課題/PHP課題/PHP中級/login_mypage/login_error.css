@@ -1,0 +1,36 @@
+header {
+    height:120px;
+    border-bottom: 2px solid #bfbfbf;
+}
+
+.logo {
+    width:300px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.login {
+    float:right;
+}
+
+main {
+    margin-top: 50px;   
+}
+
+.attention {
+    color:red;
+    background-color:palevioletred;
+}
+
+.form_contents {
+    width:60%;
+    height:400px;
+    margin:0 auto;
+    padding: 50px;
+    border: 2px solid #bfbfbf;
+}
+
+footer {
+    text-align: center;
+}

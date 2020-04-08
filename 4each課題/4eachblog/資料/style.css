@@ -1,0 +1,95 @@
+header {
+    width: 100%;
+}
+
+.logo {
+    height: 60px;
+}
+
+.list {
+    height: 40px;
+    width: 100%;
+    line-height: 40px;
+    background-color: black;
+}
+
+.list  li{
+    list-style: none;
+    float: left;
+    color: white;
+    font-size: 17px;
+    width: 16%;
+    text-align: center;
+}
+
+.main-container {
+    height: 1400px;
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.left {
+    float: left;
+    width: 70%;
+    margin-bottom: 40px;
+}
+
+.left h1 {
+    border-left: 5px solid black;
+    border-bottom: 1px solid black;
+}
+
+.bookstore {
+    width: 100%;
+    display: inline-block;
+}
+
+.gray_box {
+    width: 100%;
+    background-color: lightgray;
+    text-align: center;
+}
+
+.gray_box img {
+    width: 200px;
+    padding: 15px 10px 15px 10px;
+}
+
+.box_pic1 {
+    display: inline-block;
+}
+
+.gray_box p {
+    margin: -10px 0 -10px 0;
+}
+
+.right {
+    float: right;
+    width: 25%;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-left: 5%;
+}
+
+.right h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px dashed black;
+}
+
+.right li {
+    margin: 20px -10px;
+    list-style: none;
+}
+
+footer {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
